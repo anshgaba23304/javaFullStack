@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/91a52ccb-4257-46c2-a460-e8dec74dfdab)# Taski - Task Management WebApp
+# Taski - Task Management WebApp
 
 📌 Overview
 Taski is a powerful and user-friendly task management web application designed to help users organize, track, and manage their tasks efficiently. With Taski, users can create, update, delete, and track their tasks seamlessly.
